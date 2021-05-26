@@ -1,0 +1,4 @@
+banana, maçã, pera, uva, tangerina, abacaxi, manga, goiaba, abacate, açaí, acerola, amora, cacau, 
+cajá, caju, caqui, carambola, cereja, cidra, coco, cupuaçu, figo, framboesa, groselha, jabuticaba,
+jaca, jambo, jenipapo, kiwi, laranja, limão, mamão, mangaba, maracujá, melancia, melão, morango,
+pequi, pêssego, pitanga, pitaya, romã, siriguela, tamarindo, umbu
